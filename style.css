@@ -9,9 +9,11 @@ body
     margin:0px;
     padding:10px;
 }
-#tbfont
+.tbfont
 {
-    font-size: 20px;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
     font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #home
@@ -20,21 +22,43 @@ body
     height:20px;
     margin-left: 40px;
 }
+.main
+{
+    margin:2% 10% 10% 10%;
+}
+
 #topimg
 {
-    float: left;
+    height:85px;
+    margin:px;
 }
 #mainhead
 {
     display:inline-block;
     border-right: 1px solid black;
-    padding-right: 20px;
-    font-size: 21px;
-    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 710;
+    margin:0px;
+    word-spacing: 0px;
+    padding: 0px 20px 0px 0px ;
+    font-size: 42px;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #sidehead
 {
     display:inline-block;
     font-size: 24px;
-    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;;
+    margin-left: 20px;
+    font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #4d4d4d;
+    font-weight:700 ;
+}
+#livenow
+{
+    float:right;
+    color:#4D4D4D;
+    text-decoration-line: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border:2px solid red;
+    padding:8px 10px 8px 10px;
+    border-radius: 5px;
 }
