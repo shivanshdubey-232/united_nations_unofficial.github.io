@@ -1,0 +1,40 @@
+body
+{
+    margin:0px;
+}
+#topbar
+{
+    border-bottom: 4px solid #009EDB;
+    background-color: #F2F2F2;
+    margin:0px;
+    padding:10px;
+}
+#tbfont
+{
+    font-size: 20px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#home
+{
+    float:left;
+    height:20px;
+    margin-left: 40px;
+}
+#topimg
+{
+    float: left;
+}
+#mainhead
+{
+    display:inline-block;
+    border-right: 1px solid black;
+    padding-right: 20px;
+    font-size: 21px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#sidehead
+{
+    display:inline-block;
+    font-size: 24px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
